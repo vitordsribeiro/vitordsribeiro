@@ -38,9 +38,9 @@ Aqui estão algumas das tecnologias com as quais eu trabalho:
 
 ## 📊 Minhas Estatísticas do GitHub
 
-[![Estatísticas do GitHub de fulano-de-tal](https://github-readme-stats.vercel.app/api?username=fulano-de-tal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/vitordsribeiro)
+[![Estatísticas do GitHub de Vitor](https://github-readme-stats.vercel.app/api?username=vitordsribeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/vitordsribeiro)
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fulano-de-tal&layout=compact&langs_count=8&theme=dracula)](https://github.com/vitordsribeiro)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vitordsribeiro&layout=compact&langs_count=8&theme=dracula)](https://github.com/vitordsribeiro)
 
 ---
 
