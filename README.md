@@ -1,18 +1,13 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, muito prazer, seja bem vindo, meu nome é Vitor Ribeiro!
 
 
 
-## 🚀 Sobre mim
-Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia e por resolver problemas. Atualmente, estou focado(a) em [Sua Área de Foco, ex: Desenvolvimento Web Full-Stack, Ciência de Dados, Mobile, etc.]. Adoro aprender coisas novas e colaborar em projetos desafiadores.
+## Sobre mim
+Consultor de tecnologia com vasta experiência na implantação de sistemas e profundo conhecimento no ERP TOTVS RM. Com uma sólida carreira em docência, sou apaixonado por compartilhar conhecimento e capacitar equipes.
+Minhas habilidades técnicas incluem desenvolvimento em C, C#, Java e Python, e uma forte especialização em bancos de dados, incluindo SQL Server, Oracle e MySQL. Utilizo o Power BI para criar dashboards e análises de dados que impulsionam decisões inteligentes.
 
-- 🔭 Atualmente estou trabalhando em [Nome do Projeto Pessoal ou da Empresa].
-- 🌱 Estou aprendendo [Tecnologia que você está estudando].
-- 👯 Procuro colaborar em projetos [Tipo de projeto, ex: open-source, de impacto social, etc.].
-- 🤔 Estou procurando ajuda com [Desafio ou tecnologia específica].
-- 💬 Me pergunte sobre [Assuntos que você domina].
-- 📫 Como me encontrar: [Seu Email ou Link do LinkedIn].
-- 😄 Pronomes: [Ele/Dele, Ela/Dela, etc.].
-- ⚡ Curiosidade: [Um fato interessante sobre você].
+- 🔭 Atualmente estou trabalhando em UNIVALE - Universidade Vale do Rio Doce.
+- 🌱 Estou aperfeiçoando Dashboard interativos usando DJANGO, PyTorch , TensorFlow e Keras ( testando as bibliotecas ).
 
 ---
 
@@ -33,14 +28,12 @@ Aqui estão algumas das tecnologias com as quais eu trabalho:
 
 ## 📊 Minhas Estatísticas do GitHub
 
-[![Estatísticas do GitHub de fulano-de-tal](https://github-readme-stats.vercel.app/api?username=fulano-de-tal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/fulano-de-tal)
+[![Estatísticas do GitHub de fulano-de-tal](https://github-readme-stats.vercel.app/api?username=fulano-de-tal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/vitordsribeiro)
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fulano-de-tal&layout=compact&langs_count=8&theme=dracula)](https://github.com/fulano-de-tal)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fulano-de-tal&layout=compact&langs_count=8&theme=dracula)](https://github.com/vitordsribeiro)
 
 ---
 
 ## 📫 Conecte-se comigo
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-usuario)
-[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-usuario/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitordsribeiro/)
